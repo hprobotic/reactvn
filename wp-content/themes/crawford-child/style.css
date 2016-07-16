@@ -1,0 +1,144 @@
+/*
+Theme Name:     Crawford Child
+Theme URI:      http: //reactvn.net/
+Description:    Child theme for the Crawford theme
+Author:         John P
+Author URI:     http: //reactvn.net/
+Template:       crawford
+Version:        0.1.0
+Text Domain:    crawford
+*/
+
+@import url(../crawford/style.css);
+
+body, header #site-name, header nav li a, header nav .sub-menu li a {
+  font-family: 'Noto Serif', serif;
+  font-size: 14px;
+}
+
+.collapsing {
+    -webkit-transition: none;
+    transition: none;
+}
+
+#post-title, .post-title {
+  font-size: 38px;
+}
+
+article h3 {
+    font-size: 22px;
+}
+article h4 {
+    font-size: 18px;
+}
+
+.excerpt-link a {
+    color: #428bca;
+    border-bottom: 1px solid;
+    font-size: 16px;
+}
+
+#post-title, .post-title {
+    font-weight: normal;
+}
+
+.related-posts {
+  padding-top: 30px;
+  border-top: 1px solid #EEE;
+  margin-top: 50px;
+}
+.post-cat {
+    text-transform: lowercase;
+}
+
+.pager a.page-numbers, #page-links a {
+    margin: 5px;
+}
+article blockquote {
+    margin-left: 10px;
+}
+.comment-list li {
+  padding-bottom: 30px;
+    border-bottom: 1px solid #EEE;
+    margin-bottom: 30px;
+}
+
+img {
+  border-radius: 8px 8px 8px 8px;
+  -moz-border-radius: 8px 8px 8px 8px;
+  -webkit-border-radius: 8px 8px 8px 8px;
+}
+
+article blockquote {
+   margin-left: 0px;
+       border-left: 1px solid #BBB;
+       font-style: italic;
+       color: #666;
+       background-color: #FBFBFB;
+       padding: 1px 30px;
+ }
+
+.post-cat a {
+   margin-left: 5px;
+}
+
+.post-cat .cdate {
+    font-style: italic;
+    margin-right: 5px;
+}
+
+.post-cat .cdot {
+   color: #999;
+}
+
+
+.navbar-collapse.in {
+  display: block !important;
+}
+
+header nav {
+   border-bottom: 1px solid #ddd;
+}
+
+@media (max-width:992px) {
+
+}
+
+@media (max-width:768px) {
+  header nav {
+      background-color: #f8f8f8;
+  }
+  article blockquote {
+     border-left: 1px solid #BBB;
+  }
+
+  img {
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+  }
+
+   #featured-image img {
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+  }
+
+  .navbar-toggle {
+      display: block;
+  }
+
+  .navbar-collapse.collapse {
+      display: none;
+   }
+
+   .navbar-collapse.in {
+       display: block !important;
+   }
+
+   article blockquote {
+     margin-right: 10px;
+     padding-right: 20px;
+     padding-left: 20px;
+   }
+}
