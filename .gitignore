@@ -15,6 +15,7 @@ node_modules
 .htaccess
 .idea
 /.idea
+wp-config.php
 ~
 ~
 ~
