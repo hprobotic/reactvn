@@ -1,0 +1,1 @@
+çºW<?php exit; ?>a:6:{s:10:"last_error";s:148:"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF' at line 1";s:10:"last_query";s:12:"DESCRIBE IF;";s:11:"last_result";a:0:{}s:8:"col_info";N;s:8:"num_rows";i:0;s:10:"return_val";b:0;}

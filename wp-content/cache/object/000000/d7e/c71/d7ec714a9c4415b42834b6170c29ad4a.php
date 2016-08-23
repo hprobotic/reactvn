@@ -1,0 +1,1 @@
+d½W<?php exit; ?>a:1:{s:7:"content";a:4:{s:11:"new_version";s:5:"2.3.1";s:3:"url";s:40:"http://my.studiopress.com/themes/genesis";s:7:"package";s:60:"http://www.genesistheme.com/download/?file=genesis.2.3.1.zip";s:13:"changelog_url";s:53:"http://www.genesistheme.com/changelog/?TB_iframe=true";}}

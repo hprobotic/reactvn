@@ -1,0 +1,33 @@
+HTTP request sent, awaiting response... 206 Partial Content
+Retrying.
+
+--2016-07-30 15:52:06--  (try: 5)  http://s2.phanbaonhan.com/?file=8e1ddc3eac
+Connecting to s2.phanbaonhan.com (s2.phanbaonhan.com)|13.76.132.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2457825280 (2.3G) [application/force-download]
+Saving to: 'index.html?file=8e1ddc3eac'
+
+
+
+2016-07-30 15:52:41 (2.18 MB/s) - Connection closed at byte 79073865. Retrying.
+
+--2016-07-30 15:52:46--  (try: 6)  http://s2.phanbaonhan.com/?file=8e1ddc3eac
+Connecting to s2.phanbaonhan.com (s2.phanbaonhan.com)|13.76.132.211|:80... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Retrying.
+
+--2016-07-30 15:52:54--  (try: 7)  http://s2.phanbaonhan.com/?file=8e1ddc3eac
+Connecting to s2.phanbaonhan.com (s2.phanbaonhan.com)|13.76.132.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2457825280 (2.3G) [application/force-download]
+Saving to: 'index.html?file=8e1ddc3eac'
+
+ 0% [>                                                                                                                                         ] 20,189,257   462B/s  eta 22d 12h  0% [>                                                                                                                                         ] 20,959,305   510B/s   in 4h 28m  
+
+2016-07-30 20:21:39 (1.27 KB/s) - Connection closed at byte 20959305. Retrying.
+
+--2016-07-30 20:21:46--  (try: 8)  http://s2.phanbaonhan.com/?file=8e1ddc3eac
+Connecting to s2.phanbaonhan.com (s2.phanbaonhan.com)|13.76.132.211|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2016-07-30 20:22:05 ERROR 404: Not Found.
+
